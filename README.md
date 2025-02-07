@@ -1,5 +1,7 @@
 <img src="./docs/assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="400"  align="right" />
 
+# I'm francesc
+
 # Establishing a Federated EGA Node
 
 Welcome to the GitHub repository that hosts onboarding materials for establishing a Federated EGA Node!
